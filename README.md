@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/DanceSky720/DanceSky720.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![my-logo.png](https://pic.liesio.com/2021/10/30/d1abe69a09485.png "my-logo")
+点击 wxxcx.png查看
 
 ### Markdown
 
